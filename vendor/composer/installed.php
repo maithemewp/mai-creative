@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '3bbe352655cf5c8ee99b13a063372bd917faba37',
+    'reference' => 'cbf95bea79a7c7dbba68d585cfef649afdcdbda2',
     'name' => 'maithemewp/mai-creative',
   ),
   'versions' => 
@@ -25,7 +25,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '3bbe352655cf5c8ee99b13a063372bd917faba37',
+      'reference' => 'cbf95bea79a7c7dbba68d585cfef649afdcdbda2',
     ),
     'maithemewp/mai-installer' => 
     array (
@@ -35,7 +35,7 @@
       array (
         0 => '9999999-dev',
       ),
-      'reference' => '44561c1f7bb4bb0022787bb44974b573b2bca72d',
+      'reference' => '399fec687a9459b774c1bd1c44a38a806dfa052f',
     ),
   ),
 );
